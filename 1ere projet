@@ -1,0 +1,101 @@
+<html>
+
+<head>
+    <title>navigation bar</title>
+</head>
+
+<body>
+    <h1>num tel 27290052</h1>
+    <h2>profit facebook </h2>
+    <a href="https://www.facebook.com/filastini123/">mon facebook</a>
+    <h3>page principale </h3>
+    <a href="index.html">page principale</a>
+
+</body>
+
+</html>
+<html>
+
+<head>
+    <title>khaled</title>
+</head>
+
+<body>
+    <h1>khaled bakarwa </h1>
+    <img src="img khaled bakarwa.jpg" alt=" mon image" width="35%" </body>
+    <a href="index.html">page principale</a>
+
+</html>
+
+<html>
+
+<head>
+    <title>My first page </title>
+
+</head>
+
+<body>
+    <h1>navigation bar</h1>
+
+    <br />
+    <a href="about.html">pageabout</a>
+    <hr width="50%" <h2>header2</h2>
+    <h3>header3</h3>
+    <h4>header4</h4>
+    <h5>header5</h5>
+    <h6>header6</h6>
+
+</body>
+
+</html>
+<html>
+
+<head>
+    <title>ntaybou ma9roun </title>
+</head>
+
+<body>
+    <h1>liste el 9adiya </h1>
+    <li>bakou ma9roun</li>
+
+    <li>jben</li>
+    <li>3adhem</li>
+    <h2>kifch tayeb </h2>
+    <ol type="i">
+        <li>t7out el m2e yaghly</li>
+        <li>mn na3ed tayech el ma9roun </li>
+        <li>tsafy el ma9roun </li>
+        <li>tasribyyyyyy</li>
+        <li>tzayenn bel 3dham w jben </li>
+    </ol>
+
+</body>
+
+</html>
+<html>
+
+<head>
+    <title>navigation bar </title>
+</head>
+
+<body>
+    <h1>table</h1>
+    <table border="1">
+        <tr>
+        <td>nom</td>
+        <td>prenom</td>
+        <td>numero</td>
+        <td>adresse</td>
+
+        </tr>
+        <tr>
+        <td>khaled</td>
+        <td>bakarwa</td>
+        <td>27290052</td>
+        <td>manouba</td>
+        </tr>
+    </table>
+</body>
+
+</html>
+
